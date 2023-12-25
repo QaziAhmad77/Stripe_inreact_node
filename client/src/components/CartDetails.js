@@ -79,7 +79,7 @@ const CartDetails = () => {
       'Content-Type': 'application/json',
     };
     const response = await fetch(
-      'http://localhost:7000/api/create-checkout-session',
+      'http://localhost:5000/api/create-checkout-session',
       {
         method: 'POST',
         headers: headers,

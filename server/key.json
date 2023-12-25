@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "e-commerce-stripe-webhooks",
+  "private_key_id": "576b5c570780cef487d7cc57d0173e5e3fdcc186",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCniLO2THxZ0NjF\nTm3cKphtRHKByCBNDczD0BJqNypqCFbEV0LyXTl1jJML+XORnqUAmk1+3gJqyYxO\ndVvVtzVTI3cau/968o/VbnnDFzX9+12NZJqX452ig8Sz15df6KeqMNp7mqcSPuQX\n51f2EAsroD38RaKSYtF2ZQsknYoCrA9nMXl7QIlL30XXMkwHOEhY7HaMvDieRi5b\nkr7e6OwKwmCQejdbW6bkdpdeZiHFr49wod65dRILXbDCSvyubGhj/CUCgkdgddg5\nalm/N+0L1vY4ovkBUkeuXEr6ewFpwIikeKvpzqW0ztNJoFZwpntesCrSR2i0YRT/\nquHjM04PAgMBAAECggEAGSsyrHbN0QR3fHTYO6pJNKktdrflD7kSA8eKQgYVoNED\nOq34CHHe7vz2c7xpvf0SbDEXkVwIYENKiS2dD/yyeHysfl9d9fo43OdNnZ8qulmo\nEqou22to7tWoQx28HRQrvtK7ZV8KLcs1oy2wi5lExFdngzMcRa0DgNY/QqSe64rw\nB/FQu7g9FfNe67QqvVhXpepaOU4oxHkngHkHR61tjdWHR2gjwwTjURQbkTLxWDY1\nHgfpVFLIJnNX6sapq23MNUbTvorYl7SZQNM7ODEjULQNmQBOLkBMYIsxj4Es+IMP\neZIYXVzYl1AQsochGT0LRuQLJu5Jfv+Nt8mrC+yRwQKBgQDiD2yLer5fjSb19EFH\ncfX+agxbilmtPaRdseJRZc0Jz40xl8SQE0ewWkuKAgy2RxMGCEKR/5QhETA3oUbf\nPeGyLF4RvvOTZ7UZdpbMhEdoKUbkbrX0tZoFDfzrZpt6pblp2kC66aEB3sVKqi0v\nC35yrZl9PhqL3EgEgYwDOXEKbwKBgQC9uPHDq8Vfbse3giLrkK46nszThfnlYtpX\nsEVjAsjfd+SB2RTFOxzJPNi9x7iqcsZzcGfqAqu0UaIUUaHPVFF71XHChTIBQllS\nYGzGrpwmKGSEpwI2NmLhtxDEzMDkqhzFYY6j2gUu5T+OMGTn/pPdfyP0dX/oiYv2\ne4Tiw7xGYQKBgCLufThkZCyBtEaHUtsGahvBKV2v2EGj59Uumqk3UOK2Nrw2FoKo\n6AgBO/D8dhhojTD+b8L9ulcNv+SowDnY5xpQLs0RM7RQbzSbFZxOyHX5AuJjlSxW\nL5GeYrnBZj8igq8vsZbwaRfP466w80B0xzpTRweKZDG+fUZs+kS5SJVzAoGAdydY\nb9PJug4RUKdi1x+ezSI+8foK4I4dI0WJzo1JK1BZK1PzP4vIoHqehVKSIDrFeGr4\nWHgk7rL2YFyEi3ohUuzS7aBJr5DEGICG0KGJYE2uE8HwGaw+nhQja/ZMj1BnkW+b\n7jxXVQSVze+G8E1rAImBQ18oXhtE1CDvbJwR+wECgYEAmtnxv3Dc/pK9JN03Wz3z\nYOTvc7e/Fogq5j+wL5f8T1IXScoCLVMEz/05C2oFUMQ/aQHlTCMhMct7VCa/Caxy\nCHOJXmxKgzEMS7S6s5ArPEpqv8kTZa6JzERmblem7uKMipc3hNkev8yLyy2jzohE\nxrKAUaqW34JDY9V5+O1EGEw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-yrren@e-commerce-stripe-webhooks.iam.gserviceaccount.com",
+  "client_id": "110035120657195224901",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-yrren%40e-commerce-stripe-webhooks.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
