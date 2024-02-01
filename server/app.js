@@ -11,9 +11,7 @@ app.use(
   })
 );
 app.use(bodyParser.json());
-const stripe = require('stripe')(
-  'sk_test_51OJvdzGwXkoBUKLLoePNpqEaUNP61ofOMLeDFoEKngtBMFJXGNXJhTPVaRQVqWQt4JqK9V3oApQhrW5thtDdpeOo003R5mEMtH'
-);
+const stripe = require('stripe')(process.env.STRIPE_KEY);
 
 const admin = require('firebase-admin');
 const credentials = require('./key.json');
@@ -76,8 +74,7 @@ app.post(
   '/webhook',
   express.raw({ type: 'application/json' }),
   async (req, res) => {
-    const endpointSecret =
-      'whsec_b08f02e644c6f5852f1e893eaee238b011b90a591fd46085bb851adf6951d613'; // Replace with your actual Stripe endpoint secret
+    const endpointSecret = process.env.END_POINT_SECRET; // Replace with your actual Stripe endpoint secret
     // Use req.body directly, without parsing it
     // const payload = req.body;
     // console.log(payload, 'payload');
